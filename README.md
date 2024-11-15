@@ -16,7 +16,7 @@ ____________________
 
 2. PAIR VIA PAIRING FOR YOUR CREDS.JS[CREDS.JS](https://creds-js-pair-kgy0.onrender.com)
 
-3. UPDATE[config.js]()
+3. UPDATE YOUR config.js
 
 4. UPLOAD FILE IN YOUR SERVER PANEL, IF YOU DON'T HAVE ONE, SIGN UP AND CREATE A SEVER [SERVER](https://bot-hosting.net/?aff=1251693529084723300)
 
